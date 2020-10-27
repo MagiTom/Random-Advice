@@ -1,0 +1,35 @@
+body * {
+    font-size: 24px;
+    font-family: arial;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    background-image: url(images/ball.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    padding: 0 5px 5px 20px;
+
+}
+
+form {
+    margin: 3%;
+}
+
+button {
+    margin: 10px;
+    padding: 5px;
+    color: black;
+}
+
+h2 {
+    margin: 10px;
+}
+
+input {
+    color: black;
+}
